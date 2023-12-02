@@ -10,7 +10,7 @@ Principal component analysis, or PCA, is a statistical procedure that allows you
 
 For this project, we are using the well known Olivetti Faces data set. This data set contains 64x64 pixel grayscale images of 40 individuals. There are 10 images of each indivual exhibiting different facial expressions, angles, and lighting. Here is a sample of the first 4 individuals:
 
-![face_collage](/face_collage.jpg)
+![face_collage](/working-with-data/pca/face_collage.jpg)
 
 ## The Approach
 
