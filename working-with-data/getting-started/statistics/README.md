@@ -10,7 +10,6 @@ This notebook is a quick review over Essential Satatistics for Working with Data
       <a href="#mean">Mean</a>
     </li>
     <li><a href="#variance">Variance</a></li>
-    <li><a href="#variance">Variance</a></li>
     <li><a href="#covariance">Covariance</a></li>
     <li><a href="#correlation-coefficient">Correlation Coefficient</a></li>
     <li><a href="#standard-deviation">Standard Deviation</a></li>
