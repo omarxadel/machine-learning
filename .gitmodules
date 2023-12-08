@@ -1,0 +1,3 @@
+[submodule "algorithms/supervised/knn"]
+	path = algorithms/supervised/knn
+	url = https://github.com/omarxadel/knn
