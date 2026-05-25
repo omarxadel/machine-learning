@@ -1,0 +1,5 @@
+run	0,1
+study	2
+invest	3
+play	4
+sleep	5
